@@ -2,6 +2,7 @@
   "name": "myapp",
   "private": true,
   "version": "0.0.0",
+  "homepage": "myapp/",
   "type": "module",
   "scripts": {
     "dev": "vite",
